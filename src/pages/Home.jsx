@@ -134,7 +134,12 @@ export default function Home () {
               Free Consultation (WhatsApp)
             </a>
 
-            <a className='btn btnOutline' href={`mailto:${email}`}>
+            <a
+              className='btn btnOutline'
+              href='https://mail.google.com/mail/?view=cm&fs=1&to=minaconsol.official@gmail.com'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               Book Consultant (Email)
             </a>
           </div>

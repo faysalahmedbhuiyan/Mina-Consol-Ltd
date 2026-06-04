@@ -1132,8 +1132,9 @@ export default function Services () {
 
             <a
               className='btn btn-warning btn-lg px-5 mt-3'
-              href='mailto:minaconsol.official@gmail.com?subject=Free
-              Counselling Request'
+              href='https://mail.google.com/mail/?view=cm&fs=1&to=minaconsol.official@gmail.com'
+              target='_blank'
+              rel='noopener noreferrer'
             >
               {' '}
               Get Free Counselling

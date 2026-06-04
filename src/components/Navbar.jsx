@@ -62,7 +62,9 @@ export default function Navbar () {
 
           <div className='d-flex'>
             <a
-              href='mailto:minaconsol.official@gmail.com?subject=Free Counselling Request'
+              href='https://mail.google.com/mail/?view=cm&fs=1&to=minaconsol.official@gmail.com'
+              target='_blank'
+              rel='noopener noreferrer'
               className='btn btn-primary px-4 py-2 fw-semibold rounded-pill'
             >
               Get Free Counselling
