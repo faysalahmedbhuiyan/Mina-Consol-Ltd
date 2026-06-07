@@ -27,18 +27,6 @@ export default function Home () {
       image: UK,
       flag: '🇬🇧',
       programs: ['Foundation', 'Bachelor', 'Master', 'PhD']
-    },
-    {
-      name: 'USA',
-      image: USA,
-      flag: '🇺🇸',
-      programs: ['Bachelor', 'Master', 'PhD', 'Research']
-    },
-    {
-      name: 'Russia',
-      image: Russia,
-      flag: '🇷🇺',
-      programs: ['Bachelor', 'Master', 'PhD', 'Medical']
     }
   ]
 

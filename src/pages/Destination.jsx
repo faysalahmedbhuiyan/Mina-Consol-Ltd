@@ -254,62 +254,6 @@ export default function Destinations () {
           }
         }
       ]
-    },
-
-    {
-      name: 'Russia',
-      flag: '🇷🇺',
-      image: russiaImg,
-      tuition: '$2,000 - $7,000 / Year',
-      intake: 'September',
-      workPermit: 'Student Permission Required',
-      scholarship: 'Russian Government Scholarship',
-
-      universities: [
-        {
-          name: 'Lomonosov Moscow State University',
-
-          degrees: {
-            Bachelor: {
-              requirements: ['HSC Completion', 'Academic Transcript'],
-
-              score: 'Russian Language / IELTS',
-
-              documents: ['Passport', 'Transcript', 'Medical Certificate']
-            },
-
-            Masters: {
-              requirements: ['Bachelor Degree'],
-
-              score: 'IELTS 6.0',
-
-              documents: ['CV', 'Degree Certificate', 'Transcript']
-            }
-          }
-        },
-
-        {
-          name: 'Saint Petersburg State University',
-
-          degrees: {
-            Bachelor: {
-              requirements: ['High School Completion'],
-
-              score: 'IELTS 5.5',
-
-              documents: ['Passport', 'Transcript']
-            },
-
-            Masters: {
-              requirements: ['Bachelor Degree'],
-
-              score: 'IELTS 6.0',
-
-              documents: ['CV', 'Degree Certificate']
-            }
-          }
-        }
-      ]
     }
   ]
 
